@@ -23,8 +23,8 @@ Bilal Abi Farraj, Houda Nasser, Julia El Zini, Mohamad Jaber, Shadia Barada and 
 
 
 If you need any further help, please contact us on:
-  -jwe04@mail.aub.edu
-  -bya03@mail.aub.edu
-  -mj54@aub.edu.lb
+	jwe04@mail.aub.edu
+	bya03@mail.aub.edu
+	mj54@aub.edu.lb
 
 
