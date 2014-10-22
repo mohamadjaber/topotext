@@ -17,7 +17,7 @@ In order to use the Topotext  tool, you must follow the following steps:
 Please see the file called LICENSE.
 
 #Authors
-Bilal Abi Farraj, David Wrisley, Houda Nasser, Julia El Zini, Mohamad Jaber,Randa El Khatib, Shadia Barada, Wassim El-Hajj and Yasmin Kadah. 
+Bilal Abi Farraj, David Wrisley, Houda Nasser, Julia El Zini, Mohamad Jaber, Randa El Khatib, Shadia Barada, Wassim El-Hajj and Yasmin Kadah. 
 
 
 If you need any further help, please contact us on:
