@@ -17,12 +17,15 @@ In order to use the Topotext  tool, you must follow the following steps:
 Please see the file called LICENSE.
 
 #Authors
-Bilal Abi Farraj, Houda Nasser, Julia El Zini, Mohamad Jaber, Shadia Barada and Yasmin Kadah. 
+Bilal Abi Farraj, David Wrisley, Houda Nasser, Julia El Zini, Mohamad Jaber,Randa El Khatib, Shadia Barada, Wassim El-Hajj and Yasmin Kadah. 
 
 
 If you need any further help, please contact us on:
  - jwe04@mail.aub.edu
  - bya03@mail.aub.edu
  - mj54@aub.edu.lb
+ - rme45@mail.aub.edu
+ - dw04@aub.edu.lb
+
 
 
